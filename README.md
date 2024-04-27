@@ -4,5 +4,5 @@
 #Fases de proyecto
 #I. Planeacion
 #II. Analisis
-#III.Diseño
-#IV.Desarrollo
+#III. Diseño
+#IV. Desarrollo
