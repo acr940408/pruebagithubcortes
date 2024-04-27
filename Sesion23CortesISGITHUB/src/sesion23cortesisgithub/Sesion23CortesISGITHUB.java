@@ -16,6 +16,11 @@ public class Sesion23CortesISGITHUB {
      */
     public static void main(String[] args) {
         System.out.println("Prueba de GITHUB 1 CORTES");
+        System.out.println("Prueba de GITHUB 2 CORTES");
+        System.out.println("Prueba de GITHUB 3 CORTES");
+        System.out.println("Prueba de GITHUB 4 CORTES");
+        System.out.println("Prueba de GITHUB 5 CORTES");
+        
     }
     
 }
